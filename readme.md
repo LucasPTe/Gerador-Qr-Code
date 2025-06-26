@@ -1,7 +1,7 @@
 
 # Gerador de QR Code
 
-##Aplicação em Python para geração de QR Code, com funcionalidades de visualização e download do código gerado.
+## Aplicação em Python para geração de QR Code, com funcionalidades de visualização e download do código gerado.
 
 
 ## Teste!
